@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/*			***** Ni idea, F por mi ****		
+/*			***** Ni idea, F por mi xd ****		
 
 	16. Almacene en un vector n números (máximo 10), valide si el tamaño es par e invertir los elementos a la
 mitad del arreglo. Imprimir el vector original y el invertido.
