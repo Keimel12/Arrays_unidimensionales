@@ -35,7 +35,7 @@ int main(int argc, char const *argv[])
 	float media = 0; // media obtendra la media de los elementos del vector
 	float var = 0; // var (varianza) tomara la varianza entre los elementos del vector
 
-	// Creamos un bulce for que recorra todos los elementos del vector
+	// Creamos un bucle for que recorra todos los elementos del vector
 	for (int i = 0; i < n; i++)
 	{
 		// Si max es menor que un elemento de vector[i] pues...

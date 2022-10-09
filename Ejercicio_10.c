@@ -68,7 +68,7 @@ int main(int argc, char const *argv[])
 	{
 		aux = 0; // igualamos el aux a ceor
 		for (int j = 0; j < i; j++)
-		{
+		{ 
 			// Si el elemento del vector[j] es igual al vector[i]...
 			if(vector[j] == vector[i])
 			{

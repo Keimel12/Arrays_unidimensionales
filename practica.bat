@@ -1,2 +1,2 @@
-gcc Ejercicio_12.c
+gcc Ejercicio_19.c
 start a.exe
